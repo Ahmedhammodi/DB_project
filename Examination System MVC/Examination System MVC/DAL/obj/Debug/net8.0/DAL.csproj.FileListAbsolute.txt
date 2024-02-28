@@ -1,0 +1,28 @@
+D:\ITI_Intake_44\Projects\Examination System\Examination System MVC\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\ITI_Intake_44\Projects\Examination System\Examination System MVC\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI_Intake_44\Projects\Examination System\Examination System MVC\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\ITI_Intake_44\Projects\Examination System\Examination System MVC\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\ITI_Intake_44\Projects\Examination System\Examination System MVC\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\ITI_Intake_44\Projects\Examination System\Examination System MVC\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\ITI_Intake_44\Projects\Examination System\Examination System MVC\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+D:\ITI_Intake_44\Projects\Examination System\Examination System MVC\DAL\bin\Debug\net8.0\DAL.dll
+D:\ITI_Intake_44\Projects\Examination System\Examination System MVC\DAL\bin\Debug\net8.0\DAL.pdb
+D:\ITI_Intake_44\Projects\Examination System\Examination System MVC\DAL\obj\Debug\net8.0\DAL.dll
+D:\ITI_Intake_44\Projects\Examination System\Examination System MVC\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\ITI_Intake_44\Projects\Examination System\Examination System MVC\DAL\obj\Debug\net8.0\DAL.pdb
+D:\ITI_Intake_44\Projects\Examination System\Examination System MVC\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+D:\ITI_Intake_44\Projects\Examination System\Examination System MVC\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Ahmed Hisham\Desktop\Examination System MVC\Examination System MVC\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Ahmed Hisham\Desktop\Examination System MVC\Examination System MVC\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\Ahmed Hisham\Desktop\Examination System MVC\Examination System MVC\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Ahmed Hisham\Desktop\Examination System MVC\Examination System MVC\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Ahmed Hisham\Desktop\Examination System MVC\Examination System MVC\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Ahmed Hisham\Desktop\Examination System MVC\Examination System MVC\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Hisham\Desktop\Examination System MVC\Examination System MVC\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Ahmed Hisham\Desktop\Examination System MVC\Examination System MVC\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Ahmed Hisham\Desktop\Examination System MVC\Examination System MVC\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Hisham\Desktop\Examination System MVC\Examination System MVC\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Ahmed Hisham\Desktop\Examination System MVC\Examination System MVC\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Ahmed Hisham\Desktop\Examination System MVC\Examination System MVC\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Ahmed Hisham\Desktop\Examination System MVC\Examination System MVC\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\Ahmed Hisham\Desktop\Examination System MVC\Examination System MVC\DAL\obj\Debug\net8.0\ref\DAL.dll

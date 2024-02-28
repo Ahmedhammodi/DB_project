@@ -1,0 +1,88 @@
+﻿@{
+    Layout = "_StudentLayout";
+}
+
+<div class="card ">
+
+    <div class="card-body" style="
+        height: 73px;
+        width: 100%;
+        background-color: #f0f0f5;
+        position: fixed;
+        z-index: 1000;
+    ">
+        <ul class="nav1 br-7" style="background-color: #a1272d;  display: flex;justify-content: space-between;">
+            <li class="nav-item1">
+                <a class="nav-link active" href="javascript:void(0)" style="color:white; font-weight: bold;padding-left: 60px;">Exam: C# Exam</a>
+            </li>
+            <li class="nav-item1">
+                <a class="nav-link active" href="javascript:void(0)" style="color:white; font-weight: bold;padding-right: 60px;">Time: 20 min</a>
+            </li>
+
+        </ul>
+    </div>
+</div>
+
+<form action="/Student/SubmitMessage" method="get">
+    <div class="space" style="height: 50px;"></div>
+    <div class="col-xl-8 col-lg-12" style="margin: auto;margin-top: 20px;">
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">1 - true or false</h3>
+            </div>
+            <div class="card-body">
+                <div class="form-group">
+                    <label class="custom-control custom-radio-md">
+                        <input type="radio" class="custom-control-input" name="qid" value="True">
+                        <span class="custom-control-label">True</span>
+                    </label>
+                    <label class="custom-control custom-radio-md">
+                        <input type="radio" class="custom-control-input" name="qid" value="False">
+                        <span class="custom-control-label">False</span>
+                    </label>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-8 col-lg-12" style="margin: auto;margin-top: 20px;">
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">2- mcq question text</h3>
+            </div>
+            <div class="card-body">
+                <div class="form-group">
+                    <label class="custom-control custom-radio-md">
+                        <input type="radio" class="custom-control-input" name="qid" value="ans1">
+                        <span class="custom-control-label">abdelrhman</span>
+                    </label>
+                    <label class="custom-control custom-radio-md">
+                        <input type="radio" class="custom-control-input" name="qid" value="ans2">
+                        <span class="custom-control-label">marwan</span>
+                    </label>
+                    <label class="custom-control custom-radio-md">
+                        <input type="radio" class="custom-control-input" name="qid" value="ans3">
+                        <span class="custom-control-label">erhaby</span>
+                    </label>
+                    <label class="custom-control custom-radio-md">
+                        <input type="radio" class="custom-control-input" name="qid" value="ans4">
+                        <span class="custom-control-label">Samrah  & hitch</span>
+                    </label>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-8 col-lg-12" style="margin: auto;margin-top: 20px;">
+        <div class="card">
+            <div class="card-body">
+
+                <div class="form-group">
+                    <div class="container-login100-form-btn">
+                        <input value="Submit Answers" type="submit" class="login100-form-btn btn" style="background-color:#a1272d ;">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
