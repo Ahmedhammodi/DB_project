@@ -7,7 +7,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.EntityFrameworkCore;
 
 namespace test.Models;
-
+//Hammodiiiiiiiiiiiiiiiii
 public partial class Course
 {
     [Key]
